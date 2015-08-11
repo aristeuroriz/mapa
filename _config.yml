@@ -1,0 +1,8 @@
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
